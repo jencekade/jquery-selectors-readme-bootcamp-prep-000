@@ -10,12 +10,13 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  const babyImage = $('#baby-ninja'); 
+  const babyImage = $('#baby-ninja');
   return babyImage;
 }
 
 function divSelector() {
-
+  const pics = $('.pics');
+  return pics;
 }
 
 function firstListItem() {
