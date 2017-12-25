@@ -20,5 +20,6 @@ function divSelector() {
 }
 
 function firstListItem() {
-
+  const firstItem = $('pic-list');
+  return firstItem;
 }
